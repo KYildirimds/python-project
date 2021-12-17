@@ -1,2 +1,2 @@
 # python-project
-My first pubkic Repo
+My first public Repo
